@@ -77,4 +77,6 @@ float: left;
  overflow: hidden;
  
 }
+
+body:before {display: none;}
   
