@@ -1,0 +1,80 @@
+
+input[type="checkbox"]#Light {
+    content: url('assets/lightOff.png');
+    display: block;
+    width: 200px;
+    height: 200px;
+    -webkit-appearance: none;
+}
+input[type="checkbox"]#Light:checked {
+    content: url('assets/lightOn.png');
+}
+
+
+input[type="checkbox"]#TV {
+    content: url('assets/tvOff.png');
+    display: block;
+    width: 200px;
+    height: 200px;
+    -webkit-appearance: none;
+}
+input[type="checkbox"]#TV:checked {
+    content: url('assets/tvOn.png');
+}
+
+
+input[type="checkbox"]#Media {
+    content: url('assets/mediaOff.png');
+    display: block;
+    width: 200px;
+    height: 200px;
+    -webkit-appearance: none;
+}
+input[type="checkbox"]#Media:checked {
+    content: url('assets/mediaOn.png');
+}
+
+input[type="checkbox"]#Thermostat {
+    content: url('assets/heatOff.png');
+    display: block;
+    width: 200px;
+    height: 200px;
+    -webkit-appearance: none;
+}
+input[type="checkbox"]#Thermostat:checked {
+    content: url('assets/heatOn.png');
+}
+
+input[type="checkbox"]#Door {
+    content: url('assets/doorUnlocked.png');
+    display: block;
+    width: 200px;
+    height: 200px;
+    -webkit-appearance: none;
+}
+input[type="checkbox"]#Door:checked {
+    content: url('assets/doorLocked.png');
+}
+
+input[type="checkbox"]#Garage {
+    content: url('assets/garageClosed.png');
+    display: block;
+    width: 200px;
+    height: 200px;
+    -webkit-appearance: none;
+}
+input[type="checkbox"]#Garage:checked {
+    content: url('assets/garageOpen.png');
+}
+
+.float{
+float: left;
+	}
+
+#table {
+ 
+ width: 450px;
+ overflow: hidden;
+ 
+}
+  
